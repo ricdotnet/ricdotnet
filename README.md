@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, Ricardo here. 👋
+#### Pleasure to have you visiting.
 
 <!--
 **ricdotnet/ricdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
