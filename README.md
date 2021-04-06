@@ -8,7 +8,7 @@
 {
   name: "Ricardo",
   +surname: "Rocha",
-  +age: 27
+  -age: 27
 }
 ```
 
