@@ -6,8 +6,6 @@
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/ricdotnet) 
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/ricdotnet)
 
-<div style="color:red">sdsdf</div><br><br><br>
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fricdotnet&count_bg=%233DC8C1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=v&edge_flat=false)
   
 <!--**ricdotnet/ricdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
