@@ -1,7 +1,11 @@
 ### Hi, Ricardo here. 👋
-#### Pleasure to have you visiting.
+<!-- #### Pleasure to have you visiting. -->
 
-#### I'm a Full-stack developer.
+#### I'm a Full-stack web developer and develop bugs for a living.
+#### If I write something without bugs (impossible), I will then go back and develop a few. What's fun in writing software that you then don't need to go back and fix?
+#### I also like hunting in the night. I mostly hunt for bugs though.
+
+<hr>
 
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/ricdotnet) 
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/ricdotnet) 
