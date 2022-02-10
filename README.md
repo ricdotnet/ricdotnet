@@ -1,6 +1,7 @@
 ### Hi, Ricardo here. 👋
 #### Pleasure to have you visiting.
 
+#### I'm a Full-stack developer.
 
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/ricdotnet) 
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/ricdotnet) 
