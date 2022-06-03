@@ -7,6 +7,20 @@
 
 <hr>
 
+<h3>Some bits and bobs that I use</h3>
+
+- Jetbrains (Webstorm, Phpstorm, Intellij... I also dabble in go and python from time to time so I use Pycharm and Goland too for those)
+- Vscode (with the vim extension)
+- NeoVim (slowly transitioning to a 100% vim environment)
+- Moonlander keyboard (gotta keep my shoulders straight)
+- Logitech Mx Master 3
+- Macbook Pro 16 2019 (not an m1 sadly) and Razer Blade Advanced Model 2018 (runs windows 11)
+- Some Dell Monitors (S2718D and S2719DC... both have usb-c/thunderbolt to use with the mac and they also workd as usb hubs)
+- A desk and a chair
+- Steelseries Siberia Elite (pretty old I know)
+
+<hr>
+
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/ricdotnet) 
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/ricdotnet) 
 [<img src="https://api.speedtyper.dev/users/ricdotnet/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/ricdotnet)
