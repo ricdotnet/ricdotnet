@@ -5,6 +5,7 @@
 #### If I write something without bugs (impossible), I will then go back and develop a few. What's fun in writing software that you then don't need to go back and fix?
 #### I also like hunting in the night. I mostly hunt for bugs though.
 
+<!--
 <hr>
 
 <h3>Some bits and bobs that I use</h3>
