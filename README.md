@@ -1,7 +1,9 @@
-### Hi, Ricardo here. 👋
+#### bruh pls rate my code
+
+<!--### Hi, Ricardo here. 👋
 <!-- #### Pleasure to have you visiting. -->
 
-#### I'm a Full-stack web developer and develop bugs for a living.
+<!--#### I'm a Full-stack web developer and develop bugs for a living.
 #### If I write something without bugs (impossible), I will then go back and develop a few. What's fun in writing software that you then don't need to go back and fix?
 #### I also like hunting in the night. I mostly hunt for bugs though.
 
