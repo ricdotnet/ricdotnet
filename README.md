@@ -15,7 +15,7 @@ I have a strong opinion about Java... it is the best programming language.
 
 - Jetbrains (Webstorm, Phpstorm, Intellij, GoLand... depends on which language I'm writing code)
 - Vscode (Work tells me I have to)
-- Alacritty, Tmux and NeoVim
+- Alacritty & Wezterm, Tmux and NeoVim
 - Moonlander keyboard (gotta keep my shoulders straight)
 - Logitech Mx Master 3
 - Macbook Pro 16 2019 (not an m1 sadly) and a Windows PC (It is beefy I promise)
