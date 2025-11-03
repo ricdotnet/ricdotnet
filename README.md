@@ -11,8 +11,7 @@ I have a strong opinion about Java... it is the best programming language.
 
 <h3>Tools and items I use daily:</h3>
 
-- Jetbrains (For personal use)
-- Vscode (Work tells me I have to)
+- Jetbrains and Vscode
 - Wezterm, Tmux and NeoVim (Windows Terminal on Windows)
 - Moonlander keyboard
 - Logitech Mx Master 3
