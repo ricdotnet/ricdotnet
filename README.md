@@ -1,6 +1,4 @@
-#### bruh pls rate my code
-
-<!--### Hi, Ricardo here. 👋
+## Hi, Ricardo here. 👋
 <!-- #### Pleasure to have you visiting. -->
 
 I'm a Full-stack web developer and develop bugs for a living.<br>
@@ -11,17 +9,17 @@ I have a strong opinion about Java... it is the best programming language.
 
 <hr>
 
-<h3>Some bits and bobs that I use</h3>
+<h3>Tools and items I use daily:</h3>
 
-- Jetbrains (Webstorm, Phpstorm, Intellij, GoLand... depends on which language I'm writing code)
+- Jetbrains (For personal use)
 - Vscode (Work tells me I have to)
-- Alacritty & Wezterm, Tmux and NeoVim
-- Moonlander keyboard (gotta keep my shoulders straight)
+- Wezterm, Tmux and NeoVim (Windows Terminal on Windows)
+- Moonlander keyboard
 - Logitech Mx Master 3
 - Macbook Pro 16 2019 (not an m1 sadly) and a Windows PC (It is beefy I promise)
-- Macbook Pro 16 m1 (for work)
+- Macbook Pro M4 (for work)
 - Dell and Samsung monitors... connected via a usbc dell docking station to the macs
-- Sony headphones, airpods and soundcore... whatever holds the most battery I will use for the day
+- Sony headphones, airpods, soundcore and steelseries... whatever holds the most battery I will use for the day
 - Ikea desk, and a good SecretLab chair
 
 <hr>
