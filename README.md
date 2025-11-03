@@ -17,7 +17,7 @@ I have a strong opinion about Java... it is the best programming language.
 - Logitech Mx Master 3
 - Macbook Pro 16 2019 (i9) and a Windows PC (It is beefy I promise)
 - Macbook Pro M4 (for work)
-- Dell and Samsung monitors... connected via a usbc dell docking station to the macs
+- Dell and Samsung monitors with a Dell dock
 - Sony headphones, airpods, soundcore and steelseries... whatever holds the most battery I will use for the day
 - Ikea desk, and a good SecretLab chair
 
