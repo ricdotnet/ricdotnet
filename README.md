@@ -13,10 +13,10 @@ I have a strong opinion about Java... it is the best programming language.
 
 - Jetbrains and Vscode
 - Wezterm, Tmux and NeoVim (Windows Terminal on Windows)
-- Moonlander keyboard - recently have been using a Keycrhon K2 v3
-- Logitech Mx Master 3
+- Ergodox Moonlander and Keychron K2 v3
+- Logitech Mx Master 4 and SteelSeries Aerox 3 for gaming
 - Macbook Pro 16 2019 (i9) and a Windows PC (It is beefy I promise - 64GB of ram oof)
-- Macbook Pro M4 (for work)
+- Macbook Pro M3 Max (for work)
 - Monitor is MSI MPG 491C and a random Samsung on the side
 - Sony headphones, airpods, soundcore and steelseries... whatever holds the most battery I will use for the day
 - Ikea desk top in a random standing desk lift, and a good SecretLab chair
